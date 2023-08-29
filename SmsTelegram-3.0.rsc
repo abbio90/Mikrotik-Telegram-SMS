@@ -1,3 +1,4 @@
+/system script
 add dont-require-permissions=yes name=SmsTelegram-3.0 owner=abbio90 policy=\
     ftp,reboot,read,write,policy,test,password,sniff,sensitive,romon source="{\r\
     \n\r\
